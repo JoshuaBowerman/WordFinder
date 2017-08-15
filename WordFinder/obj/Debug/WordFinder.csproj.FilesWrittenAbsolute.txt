@@ -1,0 +1,5 @@
+/home/joshua/Projects/RiderProjects/WordFinder/WordFinder/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/joshua/Projects/RiderProjects/WordFinder/WordFinder/bin/Debug/WordFinder.pdb
+/home/joshua/Projects/RiderProjects/WordFinder/WordFinder/bin/Debug/WordFinder.exe
+/home/joshua/Projects/RiderProjects/WordFinder/WordFinder/obj/Debug/WordFinder.exe
+/home/joshua/Projects/RiderProjects/WordFinder/WordFinder/obj/Debug/WordFinder.pdb
